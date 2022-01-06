@@ -1,0 +1,102 @@
+
+
+.navbar-brand{
+  font-weight: bold;
+}
+
+.btn-outline-success{
+  background-color:black;
+  color:pink;
+  border-color:pink;
+}
+
+.btn-outline-success:hover{
+  background-color:pink;
+  color:black;
+  border-color:pink;
+}
+
+.main-color{
+  background-color:pink;
+}
+.main-color2{
+  padding-top:2em;
+  padding-bottom:2em;
+  background-color: black;
+  color:pink;
+}
+.form-control{
+  background-color: pink;
+  border-color:black;
+}
+footer{
+  background-color:black;
+  color:pink;
+}
+
+.first-line{
+  border-bottom: 1px solid #392d23;
+  font-weight: bold;
+}
+
+
+.second-line a{
+  color: pink;
+  text-decoration:none;
+}
+
+.second-line a:hover{
+  text-decoration:underline;
+}
+
+.third-line{
+  display: none;
+}
+
+@media screen and (max-width:48rem) {
+  .first-line{
+    text-align:center;
+  }
+}
+
+@media screen and (max-width:48rem) {
+  .second-line{
+    padding-left:2rem;
+    padding-right:2rem;
+  }
+}
+
+@media screen and (max-width:48rem) {
+  .third-line{
+    display: block;
+    text-align:center;
+    border-top: 1px solid #392d23;
+  }
+}
+
+.founderinfo{
+  text-align: center;
+  font-weight: bold;
+  padding-top:1.3em;
+  padding-bottom:1.3em;
+  color: pink;
+}
+
+.fanimage{
+  text-align: center;
+  background-color: pink;
+  padding-top: 2em;
+}
+.navfounder{
+  background-color: black;
+}
+.main-founder{
+  text-align: center;
+  background-color:pink;
+  color: black;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+.body-color{
+  background-color:pink;
+}
